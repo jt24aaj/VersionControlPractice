@@ -15,7 +15,7 @@ public class VersionControlPractice {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("FEATURE version says hi");
+        System.out.println("FEATURE version says hi- now on github ;)");
     }
     
 }
