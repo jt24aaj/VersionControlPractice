@@ -15,7 +15,7 @@ public class VersionControlPractice {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("version2- small improvement");
+        System.out.println("hello from the FEATURE branch!");
     }
     
 }
